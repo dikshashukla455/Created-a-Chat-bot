@@ -1,2 +1,3 @@
 # Created-a-Chat-bot
-HTML,CSS and Javascript
+ 
+ It is a simple chat-bot using HTML,CSS and Javascript
